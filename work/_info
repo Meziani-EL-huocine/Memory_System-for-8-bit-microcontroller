@@ -1,0 +1,792 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/houmaz
+Ealu
+Z0 w1726573885
+Z1 DPx4 ieee 20 numeric_std_unsigned 0 22 L9z`>=>LNY9h8oAIomUKm3
+Z2 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 449
+Z5 d/home/houmaz/design_8bit_computer
+Z6 8/home/houmaz/design_8bit_computer/ALU.vhd
+Z7 F/home/houmaz/design_8bit_computer/ALU.vhd
+l0
+L6 1
+V?jhcWSF=?[GVQOfGV=TM?3
+!s100 zVo^GAbnYHRoVi:kF;?QB1
+Z8 OV;C;2020.1;71
+32
+Z9 !s110 1726573892
+!i10b 1
+Z10 !s108 1726573892.000000
+Z11 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/ALU.vhd|
+Z12 !s107 /home/houmaz/design_8bit_computer/ALU.vhd|
+!i113 1
+Z13 o-work work -2002 -explicit
+Z14 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+R3
+R4
+Z15 DEx4 work 3 alu 0 22 ?jhcWSF=?[GVQOfGV=TM?3
+!i122 449
+l20
+Z16 L15 205
+VAXi48?ezW_[W4KOU3;jIC3
+!s100 AEQ^M@0]A5hSJ^A;5MVfJ0
+R8
+32
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 3 alu 0 22 >IX0CPa7Y8=aj=bde@SlM2
+!i122 274
+l13
+L11 8
+Vmid66lXob8g@hYIEJcjc70
+!s100 DZ0XgkNdH?2[?=ZlF9TZE2
+R8
+32
+!s110 1726394446
+!i10b 1
+!s108 1726394446.000000
+R11
+R12
+!i113 1
+R13
+R14
+w1726394442
+Ealu_tb
+Z17 w1726570973
+R2
+R3
+R4
+!i122 439
+R5
+Z18 8/home/houmaz/design_8bit_computer/test_bench_for_alu.vhd
+Z19 F/home/houmaz/design_8bit_computer/test_bench_for_alu.vhd
+l0
+L5 1
+V`=oTQj[kf`L9oGXDNnI^J2
+!s100 KRgKknmfGK^bZXdh5no?;3
+R8
+32
+Z20 !s110 1726572341
+!i10b 1
+Z21 !s108 1726572341.000000
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/test_bench_for_alu.vhd|
+Z23 !s107 /home/houmaz/design_8bit_computer/test_bench_for_alu.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R2
+R3
+R4
+DEx4 work 6 alu_tb 0 22 `=oTQj[kf`L9oGXDNnI^J2
+!i122 439
+l28
+L9 59
+VU1?GK<RfmNP;MK;bO9kfg2
+!s100 meCk><PidHlmimlDf6B6B2
+R8
+32
+R20
+!i10b 1
+R21
+R22
+R23
+!i113 1
+R13
+R14
+Edata_memory
+Z24 w1724089737
+R1
+R2
+R3
+R4
+!i122 227
+R5
+Z25 8/home/houmaz/design_8bit_computer/data_memory/data_memory.vhd
+Z26 F/home/houmaz/design_8bit_computer/data_memory/data_memory.vhd
+l0
+L6 1
+V03O9UFJQ2Ve7EeP8b5dza3
+!s100 R>9WJ>T7gAA2;onZojPIi0
+R8
+32
+Z27 !s110 1725527172
+!i10b 1
+Z28 !s108 1725527172.000000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/data_memory/data_memory.vhd|
+Z30 !s107 /home/houmaz/design_8bit_computer/data_memory/data_memory.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 11 data_memory 0 22 03O9UFJQ2Ve7EeP8b5dza3
+!i122 227
+l24
+L14 36
+VRD<9hV73k78hB@FB8^foJ3
+!s100 1cY52D?kA=;2@;33YPfZ>2
+R8
+32
+R27
+!i10b 1
+R28
+R29
+R30
+!i113 1
+R13
+R14
+Edata_memory_tb
+Z31 w1724102505
+R1
+R2
+R3
+R4
+!i122 66
+R5
+Z32 8/home/houmaz/design_8bit_computer/data_memory_tb.vhd
+Z33 F/home/houmaz/design_8bit_computer/data_memory_tb.vhd
+l0
+L6 1
+VGCGgMgO=0aPT2f`B@GLS51
+!s100 V_U2Gl:=a[VPHG7V6zkCR0
+R8
+32
+Z34 !s110 1724102515
+!i10b 1
+Z35 !s108 1724102515.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/data_memory_tb.vhd|
+Z37 !s107 /home/houmaz/design_8bit_computer/data_memory_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+DEx4 work 14 data_memory_tb 0 22 GCGgMgO=0aPT2f`B@GLS51
+!i122 66
+l27
+L10 53
+VDBVj4ESY@?mS36:]PJL@:2
+!s100 YJF;;7B3=ULmI@ieH^Qmg2
+R8
+32
+R34
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R13
+R14
+Edata_path
+Z38 w1726314589
+R1
+R2
+R3
+R4
+!i122 433
+R5
+Z39 8/home/houmaz/design_8bit_computer/data_path.vhd
+Z40 F/home/houmaz/design_8bit_computer/data_path.vhd
+l0
+L6 1
+Vj2JiAc4]BPRiiUA^C7:Qa0
+!s100 ;`0SmTd?@gBVdbFYm=60a0
+R8
+32
+Z41 !s110 1726572073
+!i10b 1
+Z42 !s108 1726572073.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/data_path.vhd|
+Z44 !s107 /home/houmaz/design_8bit_computer/data_path.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 9 data_path 0 22 j2JiAc4]BPRiiUA^C7:Qa0
+!i122 433
+l28
+L20 114
+V<44P3^H6zFcmDj51WL`Vo3
+!s100 F@lXBb1gIN6j1TiZoL5E^2
+R8
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R13
+R14
+Efsm_ex
+Z45 w1723764957
+R2
+R3
+R4
+!i122 37
+R5
+Z46 8/home/houmaz/FSM_EX1.vhd
+Z47 F/home/houmaz/FSM_EX1.vhd
+l0
+L5 1
+VVEf<dG@>O=J5RWhLdmhGI0
+!s100 RUjHemIb_U6K:0QQfg;hW0
+R8
+32
+Z48 !s110 1724069388
+!i10b 1
+Z49 !s108 1724069388.000000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/FSM_EX1.vhd|
+Z51 !s107 /home/houmaz/FSM_EX1.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R2
+R3
+R4
+DEx4 work 6 fsm_ex 0 22 VEf<dG@>O=J5RWhLdmhGI0
+!i122 37
+l18
+L13 49
+VeYLdF;QP?Vhoc8T18;Cfz0
+!s100 eoNQn29BX3?Hfh_V]z8MB3
+R8
+32
+R48
+!i10b 1
+R49
+R50
+R51
+!i113 1
+R13
+R14
+Ememory
+Z52 w1725529894
+R1
+R2
+R3
+R4
+!i122 431
+R5
+Z53 8/home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory.vhd
+Z54 F/home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory.vhd
+l0
+L6 1
+VDIaYZ1a]>7gJDkF1]f34[1
+!s100 TY[T<G=<94DjcA]EE6_Kf3
+R8
+32
+R41
+!i10b 1
+R42
+Z55 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory.vhd|
+Z56 !s107 /home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 6 memory 0 22 DIaYZ1a]>7gJDkF1]f34[1
+!i122 431
+l110
+L49 155
+V[_SVE`23WaeYQdlc3@hVm3
+!s100 j6E1;[0LbNLd]i1gNHR]Y3
+R8
+32
+R41
+!i10b 1
+R42
+R55
+R56
+!i113 1
+R13
+R14
+Ememory_tb
+Z57 w1725533235
+R1
+R2
+R3
+R4
+!i122 432
+R5
+Z58 8/home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory_tb.vhd
+Z59 F/home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory_tb.vhd
+l0
+L6 1
+VIUoMfg6=0=]H0<QR^h<hd2
+!s100 X1LSeYEESPFIebVR2HJo>3
+R8
+32
+R41
+!i10b 1
+R42
+Z60 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory_tb.vhd|
+Z61 !s107 /home/houmaz/design_8bit_computer/memory_system/top_level_memory/memory_tb.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 9 memory_tb 0 22 IUoMfg6=0=]H0<QR^h<hd2
+!i122 432
+l99
+L9 186
+VliR]=`WNTj?VOeLIAmmmV0
+!s100 `R>d@H8lj7i42I5L9fc^02
+R8
+32
+R41
+!i10b 1
+R42
+R60
+R61
+!i113 1
+R13
+R14
+Emux_memory
+Z62 w1724621535
+R1
+R2
+R3
+R4
+!i122 185
+R5
+Z63 8/home/houmaz/design_8bit_computer/mux_memory.vhd
+Z64 F/home/houmaz/design_8bit_computer/mux_memory.vhd
+l0
+L8 1
+VC_g7;F=oWm8jL[gRE`@:^0
+!s100 AZCh7ioeb7inBo>cjcA5<2
+R8
+32
+Z65 !s110 1724673727
+!i10b 1
+Z66 !s108 1724673727.000000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/mux_memory.vhd|
+Z68 !s107 /home/houmaz/design_8bit_computer/mux_memory.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 10 mux_memory 0 22 C_g7;F=oWm8jL[gRE`@:^0
+!i122 185
+l60
+L31 74
+Vc;=0O<^0eE3zX@Jg7;94[3
+!s100 ]93^OC3>TYh`^JND_2nVe1
+R8
+32
+R65
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R13
+R14
+Eoutput_port
+Z69 w1725529664
+R1
+R2
+R3
+R4
+!i122 256
+R5
+Z70 8/home/houmaz/design_8bit_computer/memory_system/output_ports/output_port.vhd
+Z71 F/home/houmaz/design_8bit_computer/memory_system/output_ports/output_port.vhd
+l0
+L6 1
+V^U39JUCJ^HKL5Kk3OBM`D1
+!s100 eSB_nRdm;z>b_^FY8OzP82
+R8
+32
+Z72 !s110 1726306468
+!i10b 1
+Z73 !s108 1726306468.000000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/memory_system/output_ports/output_port.vhd|
+Z75 !s107 /home/houmaz/design_8bit_computer/memory_system/output_ports/output_port.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 11 output_port 0 22 ^U39JUCJ^HKL5Kk3OBM`D1
+!i122 256
+l29
+Z76 L27 197
+VQPVZgRh[^Rj8n<PJdF_EJ3
+!s100 n2joBH4EdCWQEgUR1hkZJ1
+R8
+32
+R72
+!i10b 1
+R73
+R74
+R75
+!i113 1
+R13
+R14
+Eoutput_ports
+Z77 w1725526033
+R1
+R2
+R3
+R4
+!i122 226
+R5
+Z78 8/home/houmaz/design_8bit_computer/output_ports/output_port.vhd
+Z79 F/home/houmaz/design_8bit_computer/output_ports/output_port.vhd
+l0
+L6 1
+V9Gzm02;boiPedg=d5_fzA2
+!s100 4McKLc2FM@BTL5keNX?Uj3
+R8
+32
+R27
+!i10b 1
+R28
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/output_ports/output_port.vhd|
+Z81 !s107 /home/houmaz/design_8bit_computer/output_ports/output_port.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 12 output_ports 0 22 9Gzm02;boiPedg=d5_fzA2
+!i122 226
+l29
+R76
+V;2nRSRj:_AiU=9ZMWoNHW2
+!s100 Zj110Nd3hf<>=GMaQYhG;1
+R8
+32
+R27
+!i10b 1
+R28
+R80
+R81
+!i113 1
+R13
+R14
+Eprogram_memory
+Z82 w1724063370
+R1
+R2
+R3
+R4
+!i122 258
+R5
+Z83 8/home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory.vhd
+Z84 F/home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory.vhd
+l0
+L7 1
+V6EcDzlzA4Ob=aEhllX?i@2
+!s100 j>`PUdl5Bh^8RB61OJfGc3
+R8
+32
+Z85 !s110 1726306499
+!i10b 1
+Z86 !s108 1726306499.000000
+Z87 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory.vhd|
+Z88 !s107 /home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 14 program_memory 0 22 6EcDzlzA4Ob=aEhllX?i@2
+!i122 258
+l90
+L14 102
+VXEke355]U4f1Ecl`BZHgm2
+!s100 Lz[MFU7K:E^=_V;Q6oDjI0
+R8
+32
+R85
+!i10b 1
+R86
+R87
+R88
+!i113 1
+R13
+R14
+Eprogram_memory_tb
+Z89 w1724067158
+R1
+R2
+R3
+R4
+!i122 259
+R5
+Z90 8/home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory_tb.vhd
+Z91 F/home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory_tb.vhd
+l0
+L7 1
+V>c[kVDD1d2DBDAzk6k]d71
+!s100 dCgZP^EfbJ1okPIaUWaCg2
+R8
+32
+R85
+!i10b 1
+R86
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory_tb.vhd|
+Z93 !s107 /home/houmaz/design_8bit_computer/memory_system/program_memory/program_memory_tb.vhd|
+!i113 1
+R13
+R14
+Atest
+R1
+R2
+R3
+R4
+DEx4 work 17 program_memory_tb 0 22 >c[kVDD1d2DBDAzk6k]d71
+!i122 259
+l29
+L11 44
+VXfcR:PAn1iX_=W6J7f4zY1
+!s100 8jeE;eV=W][18P_I1K:=>2
+R8
+32
+R85
+!i10b 1
+R86
+R92
+R93
+!i113 1
+R13
+R14
+Etb_alu
+Z94 w1726498634
+R1
+R2
+R3
+R4
+!i122 385
+R5
+Z95 8/home/houmaz/design_8bit_computer/ALU_tb.vhd
+Z96 F/home/houmaz/design_8bit_computer/ALU_tb.vhd
+l0
+L6 1
+VQGc[2KmNcD>hdbg]KA9gb0
+!s100 h0<Sz6k5T]BGnznT[lCXD1
+R8
+32
+Z97 !s110 1726500480
+!i10b 1
+Z98 !s108 1726500480.000000
+Z99 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/ALU_tb.vhd|
+Z100 !s107 /home/houmaz/design_8bit_computer/ALU_tb.vhd|
+!i113 1
+R13
+R14
+Abehavioral
+R1
+R2
+R3
+R4
+DEx4 work 6 tb_alu 0 22 QGc[2KmNcD>hdbg]KA9gb0
+!i122 385
+l25
+L9 45
+VSZBSIoP3H[c:CPU?A<GLJ1
+!s100 =F8daBiMl9DTDCdahVRN:2
+R8
+32
+R97
+!i10b 1
+R98
+R99
+R100
+!i113 1
+R13
+R14
+Etb_memory
+Z101 w1725530283
+R1
+R2
+R3
+R4
+!i122 239
+R5
+Z102 8/home/houmaz/design_8bit_computer/memory_tb.vhd
+Z103 F/home/houmaz/design_8bit_computer/memory_tb.vhd
+l0
+L6 1
+V@U6@g9>I<5e]?jIofCU^^2
+!s100 ]_>4]WIlf>RofQL9ORmM10
+R8
+32
+Z104 !s110 1725530295
+!i10b 1
+Z105 !s108 1725530295.000000
+Z106 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/memory_tb.vhd|
+Z107 !s107 /home/houmaz/design_8bit_computer/memory_tb.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 9 tb_memory 0 22 @U6@g9>I<5e]?jIofCU^^2
+!i122 239
+l98
+L9 213
+VmU6EE:5zEbnd[KTZXOUj<2
+!s100 4[Z7OnLL9];O<<?@U0P@B0
+R8
+32
+R104
+!i10b 1
+R105
+R106
+R107
+!i113 1
+R13
+R14
+Etb_mux_memory
+Z108 w1724621220
+R2
+R3
+R4
+!i122 190
+R5
+Z109 8/home/houmaz/design_8bit_computer/mux_memory_tb.vhd
+Z110 F/home/houmaz/design_8bit_computer/mux_memory_tb.vhd
+l0
+L5 1
+Vh46ZF;eDz^mP2o4L01gWE1
+!s100 O:5W=YZnN^^mRB1;9h?MB2
+R8
+32
+R65
+!i10b 1
+R66
+Z111 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/mux_memory_tb.vhd|
+Z112 !s107 /home/houmaz/design_8bit_computer/mux_memory_tb.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R2
+R3
+R4
+DEx4 work 13 tb_mux_memory 0 22 h46ZF;eDz^mP2o4L01gWE1
+!i122 190
+l44
+L8 121
+V4Ml1?b1S0Zm9a5?;zH`1N0
+!s100 8ddJ6^Ce@g`hWNIj?:eAA0
+R8
+32
+R65
+!i10b 1
+R66
+R111
+R112
+!i113 1
+R13
+R14
+Etb_output_ports
+Z113 w1725526058
+R1
+R2
+R3
+R4
+!i122 257
+R5
+Z114 8/home/houmaz/design_8bit_computer/memory_system/output_ports/output_testbench.vhd
+Z115 F/home/houmaz/design_8bit_computer/memory_system/output_ports/output_testbench.vhd
+l0
+L6 1
+V5SKl@DzbmYV82dHkofUJE3
+!s100 IeKABYjiXKR;;MX`NiL:G0
+R8
+32
+R72
+!i10b 1
+R73
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|/home/houmaz/design_8bit_computer/memory_system/output_ports/output_testbench.vhd|
+Z117 !s107 /home/houmaz/design_8bit_computer/memory_system/output_ports/output_testbench.vhd|
+!i113 1
+R13
+R14
+Abehavior
+R1
+R2
+R3
+R4
+DEx4 work 15 tb_output_ports 0 22 5SKl@DzbmYV82dHkofUJE3
+!i122 257
+l61
+L9 104
+Ve`Mk2JkzH4B[?W]O^VFJR3
+!s100 UGESmlYl0D=m9E02A^G3^3
+R8
+32
+R72
+!i10b 1
+R73
+R116
+R117
+!i113 1
+R13
+R14
