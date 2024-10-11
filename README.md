@@ -31,7 +31,7 @@ The program memory contains the instructions for the microcontroller to execute.
 
 ### 3. Output Ports
 Output ports allow the microcontroller to communicate with external devices.
-**[Output Ports Repository]((https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/output_ports)**
+**[Output Ports Repository](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/output_ports)**
 
 ### 4. Top-Level Memory System
 The top-level design integrates data memory, program memory, and output ports, ensuring the smooth operation of the entire system.
