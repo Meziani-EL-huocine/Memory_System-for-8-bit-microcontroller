@@ -5,10 +5,10 @@ This project focuses on the design of a memory system for an 8-bit microcontroll
 
 The memory system is divided into four repositories:
 
-- **[Data Memory](https://github.com/Meziani-EL-huocine/data_memory)**
-- **[Program Memory](https://github.com/Meziani-EL-huocine/program_memory)**
-- **[Output Ports](https://github.com/Meziani-EL-huocine/output_ports)**
-- **[Top-Level Memory System](https://github.com/Meziani-EL-huocine/top_level_memory)**
+- **[Data Memory](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/data_memory)**
+- **[Program Memory](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/program_memory)**
+- **[Output Ports](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/output_ports)**
+- **[Top-Level Memory System](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/top_level_memory)**
 
 This project is designed to be flexible, allowing for modifications and expansions. It is suitable for educational purposes, helping students and engineers better understand memory system design in microcontrollers.
 
@@ -23,19 +23,19 @@ The memory system is organized into the following repositories:
 
 ### 1. Data Memory
 The data memory stores values used by the microcontroller during its operations.
-**[Data Memory Repository](https://github.com/Meziani-EL-huocine/data_memory)**
+**[Data Memory Repository](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/data_memory)**
 
 ### 2. Program Memory
 The program memory contains the instructions for the microcontroller to execute.
-**[Program Memory Repository](https://github.com/Meziani-EL-huocine/program_memory)**
+**[Program Memory Repository](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/program_memory)**
 
 ### 3. Output Ports
 Output ports allow the microcontroller to communicate with external devices.
-**[Output Ports Repository](https://github.com/Meziani-EL-huocine/output_ports)**
+**[Output Ports Repository]([https://github.com/Meziani-EL-huocine](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/output_ports)**
 
 ### 4. Top-Level Memory System
 The top-level design integrates data memory, program memory, and output ports, ensuring the smooth operation of the entire system.
-**[Top-Level Memory System Repository](https://github.com/Meziani-EL-huocine/top_level_memory)**
+**[Top-Level Memory System Repository](https://github.com/Meziani-EL-huocine/Memory_System-for-8-bit-microcontroller/tree/main/top_level_memory)**
 
  ## How to Run
 
